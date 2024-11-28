@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("************************************")
 	fmt.Println("********* YouTube Uploader *********")
 	fmt.Println("************************************")
-	fmt.Println(" Type 'help' to view available commands.")
+	fmt.Println("Type 'help' to view available commands.")
 
 	for {
 		fmt.Print("> ")
